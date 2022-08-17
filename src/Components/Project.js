@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 
 
 function Project(props) {
-  console.log(props.data)   
+    
    
   return <>  
  
